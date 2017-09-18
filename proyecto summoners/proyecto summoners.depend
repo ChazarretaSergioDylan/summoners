@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1505695434 source:c:\users\julie_000\desktop\proyecto summoners\main.c
+	<stdio.h>
+	<stdlib.h>
+	"summoners.h"
+	<string.h>
+
+1505694797 c:\users\julie_000\desktop\proyecto summoners\summoners.h
+
+1505695626 source:c:\users\julie_000\desktop\proyecto summoners\summoners.c
+	<stdio.h>
+	<stdlib.h>
+	"summoners.h"
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
